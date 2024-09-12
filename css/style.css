@@ -6,3 +6,7 @@
     text-align: center;
 }
 
+p:hover {
+    color: #f00;
+    cursor: pointer;
+}
