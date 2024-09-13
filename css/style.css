@@ -10,6 +10,10 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-weight: 300;
+}
+
 p:hover {
     color: #f00;
     cursor: pointer;
